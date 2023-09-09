@@ -21,7 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://vicky007selva.github.io/mercor_test/public/index.html",
+    "homepage": "https://vicky007selva.github.io/mercor_test/",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
