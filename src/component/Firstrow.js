@@ -5,10 +5,11 @@ import dollar from '../images/dollar.svg'
 import { useTheme} from 'styled-components';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-//project imports
+//project importss
 import ResponsiveAppBar from './ResponsiveAppBar';
 
 const Firstrow = () => {
+ 
 
     const theme = useTheme();
     const phone = useMediaQuery(theme.breakpoints.between('xs','sm'));
