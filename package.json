@@ -1,5 +1,5 @@
 {
-  "name": "mercor_test",
+  "name": "mercortest",
   "version": "0.1.0",
   "homepage": "https://vicky007selva.github.io/mercorTest/",
   "private": false,
@@ -15,6 +15,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4"
@@ -25,8 +26,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
