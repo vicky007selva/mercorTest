@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mercorTest/static/css/main.e6c13ad2.css",
+    "main.js": "/mercorTest/static/js/main.689b0250.js",
+    "static/js/787.5b86b1e7.chunk.js": "/mercorTest/static/js/787.5b86b1e7.chunk.js",
+    "static/media/introphone.png": "/mercorTest/static/media/introphone.38e2d0224fd5c4e96fa7.png",
+    "static/media/intropillar.png": "/mercorTest/static/media/intropillar.303f29ec0b4c225aaa46.png",
+    "static/media/introstairs.png": "/mercorTest/static/media/introstairs.0acb24ede41fd95b6689.png",
+    "static/media/introhalfcubes.png": "/mercorTest/static/media/introhalfcubes.766cece95d385ebaa05d.png",
+    "index.html": "/mercorTest/index.html",
+    "static/media/instagram.svg": "/mercorTest/static/media/instagram.0736ea625137b78150b783ea8bb3dce1.svg",
+    "static/media/dollar.svg": "/mercorTest/static/media/dollar.d063ff160bba6bd05ecba512695a8a17.svg",
+    "static/media/apple.svg": "/mercorTest/static/media/apple.c6fc4571fada73576896b6a26a1b0334.svg",
+    "static/media/twitter.svg": "/mercorTest/static/media/twitter.3a6073f80faaaeafbde52187ab560b87.svg",
+    "static/media/googleplay.svg": "/mercorTest/static/media/googleplay.0a95797eea6a54b4b2db8e2533532aaf.svg",
+    "static/media/Downarrow.svg": "/mercorTest/static/media/Downarrow.aa855b2860c5bb6e71f20ab1824540fc.svg",
+    "static/media/frame.svg": "/mercorTest/static/media/frame.2dc437389ddd1df82c2ce1e7171b980b.svg",
+    "main.e6c13ad2.css.map": "/mercorTest/static/css/main.e6c13ad2.css.map",
+    "main.689b0250.js.map": "/mercorTest/static/js/main.689b0250.js.map",
+    "787.5b86b1e7.chunk.js.map": "/mercorTest/static/js/787.5b86b1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.689b0250.js"
+  ]
+}
