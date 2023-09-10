@@ -1,10 +1,10 @@
 import React from 'react'
 
 //image imports
-import introcube from '../images/introcube.png'
-import introstairs from '../images/introstairs.png'
-import intropillar from '../images/intropillar.png'
-import introhalfcubes from '../images/introhalfcubes.png'
+import introcube from 'https://vicky007selva.github.io/mercorTest/src/images/introcube.png'
+import introstairs from 'https://vicky007selva.github.io/mercorTest/src/images/introstairs.png'
+import intropillar from 'https://vicky007selva.github.io/mercorTest/src/images/intropillar.png'
+import introhalfcubes from 'https://vicky007selva.github.io/mercorTest/src/images/introhalfcubes.png'
 
 import { useTheme} from 'styled-components';
 import useMediaQuery from '@mui/material/useMediaQuery';

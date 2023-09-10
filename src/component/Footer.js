@@ -1,12 +1,12 @@
 import React from 'react'
 
 //image imports
-import apple from '../images/apple.svg'
-import googleplay from '../images/googleplay.svg'
-import frame from '../images/frame.svg'
-import twitter from '../images/twitter.svg'
-import instagram from '../images/instagram.svg'
-import Downarrow from '../images/Downarrow.svg'
+import apple from 'https://vicky007selva.github.io/mercorTest/src/images/apple.svg'
+import googleplay from 'https://vicky007selva.github.io/mercorTest/src/images/googleplay.svg'
+import frame from 'https://vicky007selva.github.io/mercorTest/src/images/frame.svg'
+import twitter from 'https://vicky007selva.github.io/mercorTest/src/images/twitter.svg'
+import instagram from 'https://vicky007selva.github.io/mercorTest/src/images/instagram.svg'
+import Downarrow from 'https://vicky007selva.github.io/mercorTest/src/images/Downarrow.svg'
 
 import { useTheme} from 'styled-components';
 import useMediaQuery from '@mui/material/useMediaQuery';
