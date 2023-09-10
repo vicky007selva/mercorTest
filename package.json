@@ -19,13 +19,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "homepage": "https://vicky007selva.github.io/mercorTest/",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://vicky007selva.github.io/mercorTest/",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    
   },
   "eslintConfig": {
     "extends": [
