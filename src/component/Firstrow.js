@@ -1,5 +1,5 @@
 import React from 'react'
-import dollar from 'https://vicky007selva.github.io/mercorTest/src/images/dollar.svg'
+import dollar from '../images/dollar.svg'
 //material ui components
 
 import { useTheme} from 'styled-components';

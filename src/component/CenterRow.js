@@ -4,7 +4,7 @@ import { useTheme} from 'styled-components';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
 //image imports 
-import introphone from 'https://vicky007selva.github.io/mercorTest/src/images/introphone.png'
+import introphone from '../images/introphone.png'
 
 //import material ui
 import { Typography } from '@mui/material';

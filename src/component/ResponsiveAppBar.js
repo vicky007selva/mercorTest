@@ -17,7 +17,7 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 
 
 //image imports
-import eye from 'https://vicky007selva.github.io/mercorTest/src/images/eye.png'
+import eye from '../images/eye.png'
 
 const pages = ['SIGN IN', 'LEGAL', 'LICENCES', 'SECURITY', 'CAREERS', 'PRESS', 'SUPPORT', 'STATUS', 'CODEBLOG'];
 
